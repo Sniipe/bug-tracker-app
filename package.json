@@ -1,7 +1,7 @@
 {
-    "name":"angular2-skeleton",
+    "name":"bug-tracker-app",
     "version": "1.0.0",
-    "description" : "Rory's Angular2 Skeleton 2 project",
+    "description" : "Bug Tracker App",
     "scripts": {
         "start":"tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "lite":"lite-server",
